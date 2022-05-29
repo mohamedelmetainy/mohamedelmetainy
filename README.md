@@ -1,7 +1,8 @@
+Student at Faculty of Computers and Artificial Intelligence Cairo University
 - 👋 Hi, I’m @mohamedelmetainy
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in cpp
+- 🌱 I’m currently learning cpp
+- 💞️ I’m looking to collaborate on cpp
 - 📫 How to reach me ...
 
 <!---
